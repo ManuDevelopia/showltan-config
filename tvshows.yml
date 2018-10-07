@@ -1,10 +1,10 @@
 
 # HTTP Server
 server:
-  port: 0   # HTTP port
+  port: 2222   # HTTP port
 
 # Discovery Server Access
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://discovery-server:1111/eureka/
+      defaultZone: http://localhost:1111/eureka/
