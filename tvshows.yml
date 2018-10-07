@@ -1,7 +1,7 @@
 
 # HTTP Server
 server:
-  port: 2222   # HTTP port
+  port: 3002   # HTTP port
 
 # Discovery Server Access
 eureka:
