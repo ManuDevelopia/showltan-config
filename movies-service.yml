@@ -1,5 +1,2 @@
-message: Hello world
-another: world
-
 server:
   port: 3001
