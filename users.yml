@@ -7,3 +7,9 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:1111/eureka/
+
+# Services
+showltan:
+  services:
+    movies: http://localhost:3001/movies
+    tvshows: http://localhost:3002/tvshows
